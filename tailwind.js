@@ -45,18 +45,13 @@ let defaultConfig = require('tailwindcss/defaultConfig')()
 
 let colors = {
   'transparent': 'transparent',
-
-  'purple': 'rgb(134,79,135)',
-  'blue': '#BFDEF7',
-
+  'purple': '#8F73B3',
+  'light-blue': '#BDCDE4',
+  'blue': '#839FC7',
+  'green': '#C9E6D4',
+  'orange': '#EE776C',
+  'yellow': '#FBEAA3',
   'black': '#22292f',
-  'grey-darkest': '#3d4852',
-  'grey-darker': '#606f7b',
-  'grey-dark': '#8795a1',
-  'grey': '#b8c2cc',
-  'grey-light': '#dae1e7',
-  'grey-lighter': '#f1f5f8',
-  'grey-lightest': '#f8fafc',
   'white': '#ffffff',
 }
 
@@ -858,7 +853,7 @@ module.exports = {
     svgStroke: [],
     tableLayout: ['responsive'],
     textAlign: ['responsive'],
-    textColors: ['responsive', 'hover', 'focus'],
+    textColors: ['responsive', 'hover', 'focus', 'group-hover'],
     textSizes: ['responsive'],
     textStyle: ['responsive', 'hover', 'focus'],
     tracking: ['responsive'],

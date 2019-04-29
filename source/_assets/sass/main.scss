@@ -1,5 +1,27 @@
-@tailwind preflight
+@tailwind preflight;
 
 @tailwind components;
+
+@responsive {
+    .h-fixed-300 {
+        min-height: 300px;
+    }
+
+    .h-fixed-400 {
+        min-height: 400px;
+    }
+
+    .h-fixed-600 {
+        min-height: 600px;
+    }
+
+    .-mt-200 {
+        margin-top: -200px;
+    }
+
+    .pb-200 {
+        padding-bottom: 200px;
+    }
+}
 
 @tailwind utilities;
