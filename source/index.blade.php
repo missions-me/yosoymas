@@ -4,6 +4,12 @@
 
 @include('splash')
 
+<section class="text-center p-10 md:py-20 bg-purple border-t-4 border-white border-dashed">
+    <p class="text-white font-bold md:text-xl max-w-lg mx-auto">
+        Yo Soy Más es un movimiento de mujeres Peruanas por mujeres Peruanas. Yo Soy Más cree que las mujeres de Perú son los heroínas de Perú. Queremos brindar ayuda, esperanza y sanidad al identidad de las mujeres sin disminuir la identidad del hombre.
+    </p>
+</section>
+
 <section class="text-center py-20 px-5 md:py-20">
     
     <div class="max-w-md mx-auto md:mb-24 mb-4">
@@ -30,14 +36,8 @@
 
 </section>
 
-<section class="text-center p-10 font-bold text-blue">
+<section class="text-center p-10 font-bold bg-blue text-white">
 Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
-</section>
-
-<section class="text-center p-10 md:py-20 bg-purple">
-    <p class="text-white font-bold text-xl max-w-lg mx-auto">
-        Yo Soy Más es un movimiento de mujeres Peruanas por mujeres Peruanas. Yo Soy Más cree que las mujeres de Perú son los heroínas de Perú. Queremos brindar ayuda, esperanza y sanidad al identidad de las mujeres sin disminuir la identidad del hombre.
-    </p>
 </section>
 
 <section class="max-w-3xl mx-auto md:py-20">
@@ -155,7 +155,7 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
     </p>
 </section>
 
-<section class="bg-purple pb-20 md:py-20 md:px-5">
+<section class="bg-purple pb-20 md:py-20 md:px-5 border-b-4 border-white border-dashed">
 <div class="flex flex-wrap max-w-3xl mx-auto">
         <div class="md:px-10 px-5 pt-10 w-full md:w-1/3 pb-200 md:pb-10 bg-white md:bg-purple">
             <h3 class="text-2xl font-extrabold uppercase tracking-wide text-purple md:text-white mb-4">
@@ -169,18 +169,7 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
         </div>
 
         <div class="md:px-10 px-5 py-10 w-full md:w-1/3 -mt-200 md:mt-0">
-            <h3 class="text-2xl font-extrabold uppercase tracking-wide text-purple md:text-white mb-4">
-                Arlett<br> Contreras
-            </h3>
-            <img src="/assets/images/arlett-contreras.png" class="mb-4" />
-            <img src="/assets/images/statements/ysm-infl-statements-02.svg" class="max-w-xs block mb-4" />
-            <p class="text-white">
-                La BBC de Londres la destaca entre las 100 mujeres más inspiradoras e influyentes del mundo.
-            </p>
-        </div>
-
-        <div class="md:px-10 px-5 py-10 w-full md:w-1/3">
-            <h3 class="text-2xl font-extrabold uppercase tracking-wide text-white mb-4">
+            <h3 class="text-2xl font-extrabold uppercase tracking-wide md:text-white text-purple mb-4">
                 Andrea<br> Llosa
             </h3>
             <img src="/assets/images/andrea-llosa.png" class="mb-4" />
@@ -189,6 +178,10 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
                 Periodista, conductora y directora del programa “Nunca Más” y del programa de entrevistas “Andrea al Mediodía.”
             </p>
         </div>
+
+        {{-- <div class="md:px-10 px-5 py-10 w-full md:w-1/3">
+            
+        </div> --}}
 </div>
 </section>
 
