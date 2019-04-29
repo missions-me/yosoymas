@@ -7,6 +7,15 @@
         <title>Yo Soy Mas</title>
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,800" rel="stylesheet">
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132752455-3"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-132752455-3');
+        </script>
     </head>
     <body class="font-sans leading-normal antialiased m-0 text-black">
         @yield('body')
