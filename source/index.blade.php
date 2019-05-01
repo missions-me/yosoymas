@@ -132,7 +132,7 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
             <h3 class="text-xl uppercase tracking-wide font-extrabold text-light-blue text-center mb-4">Guarda y Comparta</h3>
             <p class="font-bold mb-4">Hemos creado rescursos para ayudarle a compartir tu historia.</p>
             <div class="flex mb-4">
-                <a href="/assets/images/downloads/yosoymas-tsr-post1.mp4" class="p-4 w-1/2 no-underline block" target="_blank" >
+                <a href="/assets/images/downloads/YSM-1x1-03.jpg" class="p-4 w-1/2 no-underline block" target="_blank" >
                     <img src="/assets/images/downloads/YSM-1x1-03.jpg" class="shadow hover:shadow-lg" />
                 </a>
             </div>
