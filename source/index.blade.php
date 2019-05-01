@@ -4,9 +4,9 @@
 
 @include('splash')
 
-<section class="text-center p-10 md:py-20 bg-purple border-t-4 border-white border-dashed">
+<section class="text-center p-10 md:py-20 bg-purple border-t-4 border-white">
     <p class="text-white font-bold md:text-xl max-w-lg mx-auto">
-        Yo Soy Más es un movimiento de mujeres Peruanas por mujeres Peruanas. Yo Soy Más cree que las mujeres de Perú son los heroínas de Perú. Queremos brindar ayuda, esperanza y sanidad al identidad de las mujeres sin disminuir la identidad del hombre.
+        Yo Soy Más es un movimiento de mujeres Peruanas para mujeres Peruanas. Yo Soy Más cree que las mujeres del Perú son las heroínas del Perú. Queremos brindar ayuda, esperanza y sanidad a la identidad de las mujeres sin disminuir la identidad del hombre.
     </p>
 </section>
 
@@ -116,11 +116,11 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
             <ol class="list-reset font-bold">
                 <li class="flex items-center mb-4">
                     <div class="px-4 bg-orange text-white text-4xl font-extrabold mr-2">1</div>
-                    <div class="text-sm">Publique una foto “Soy Mas” y use <span class="text-orange">#yosoymas</span></div>
+                    <div class="text-sm">Publica una foto “Soy Mas” y usa <span class="text-orange">#yosoymas</span></div>
                 </li>
                  <li class="flex items-center mb-4">
                     <div class="px-4 bg-orange text-white text-4xl font-extrabold mr-2">2</div>
-                    <div class="text-sm">Asista el evento el 15 de Mayo</div>
+                    <div class="text-sm">Asiste al evento el 15 de Mayo</div>
                 </li>
                  <li class="flex items-center">
                     <div class="px-4 bg-orange text-white text-4xl font-extrabold mr-2">3</div>
@@ -130,7 +130,15 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
         </div>
         <div class="md:p-10 w-full md:w-1/2 text-center">
             <h3 class="text-xl uppercase tracking-wide font-extrabold text-light-blue text-center mb-4">Guarda y Comparta</h3>
-            <p class="font-bold mb-4">Hemos creado rescursos para ayudarle a compartir su historia.</p>
+            <p class="font-bold mb-4">Hemos creado rescursos para ayudarle a compartir tu historia.</p>
+            <div class="flex mb-4">
+                <a href="/assets/images/downloads/YSM-1x1-01.jpg" class="p-4 w-1/2 no-underline block" target="_blank" >
+                    <img src="/assets/images/downloads/YSM-1x1-01.jpg" class="shadow hover:shadow-lg" />
+                </a>
+                <a href="/assets/images/downloads/YSM-1x1-02.jpg" class="p-4 w-1/2 no-underline block" target="_blank" >
+                    <img src="/assets/images/downloads/YSM-1x1-02.jpg" class="shadow hover:shadow-lg" />
+                </a>
+            </div>
             <a href="/descargas" class="inline-block w-auto px-10 py-2 bg-blue text-yellow no-underline hover:bg-light-blue hover:text-orange">mas descargas</a>
         </div>
     </div>
@@ -155,7 +163,7 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
     </p>
 </section>
 
-<section class="bg-purple pb-20 md:py-20 md:px-5 border-b-4 border-white border-dashed">
+<section class="bg-purple pb-20 md:py-20 md:px-5 border-b-4 border-white">
 <div class="flex flex-wrap max-w-3xl mx-auto">
         <div class="md:px-10 px-5 pt-10 w-full md:w-1/3 pb-200 md:pb-10 bg-white md:bg-purple">
             <h3 class="text-2xl font-extrabold uppercase tracking-wide text-purple md:text-white mb-4">
