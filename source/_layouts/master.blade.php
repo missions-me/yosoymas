@@ -18,10 +18,14 @@
         </script>
     </head>
     <body class="font-sans leading-normal antialiased m-0 text-black">
-        @yield('body')
+        <main class="min-h-screen flex flex-col">
+            <article class="flex-grow">
+                @yield('body')
+            </article>
 
-        <footer class="text-center text-light-blue text-sm bg-purple p-10">
-            &copy; {{ date('Y') }} Yo Soy Mas. Todos los derechos reservados. Presentado por Un Solo Peru.
-        </footer>
+            <footer class="text-center text-light-blue text-sm bg-purple p-10">
+                &copy; {{ date('Y') }} Yo Soy Mas. Todos los derechos reservados. Presentado por Un Solo Peru.
+            </footer>
+        </main>
     </body>
 </html>
