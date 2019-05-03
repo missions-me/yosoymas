@@ -113,20 +113,21 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
             <h2 class="text-xl uppercase tracking-wide font-extrabold text-light-blue text-center md:text-left mb-8">
                 Únete a La Campaña
             </h2>
-            <ol class="list-reset font-bold">
+            <ol class="list-reset font-bold mb-4">
                 <li class="flex items-center mb-4">
                     <div class="px-4 bg-orange text-white text-4xl font-extrabold mr-2">1</div>
-                    <div class="text-sm">Publica una foto “Soy Mas” y usa <span class="text-orange">#yosoymas</span></div>
+                    <div class="text-sm">Publicando el gráfico de Yo Soy Más en cualquiera de las plataformas sociales y usa el hashtag <span class="text-orange">#yosoymas</span></div>
                 </li>
                  <li class="flex items-center mb-4">
                     <div class="px-4 bg-orange text-white text-4xl font-extrabold mr-2">2</div>
-                    <div class="text-sm">Asiste al evento el 15 de Mayo</div>
+                    <div class="text-sm">Publicando un video “estilo selfie” compartiendo tu historia (hablar por los que no pueden)</div>
                 </li>
                  <li class="flex items-center">
                     <div class="px-4 bg-orange text-white text-4xl font-extrabold mr-2">3</div>
-                    <div class="text-sm">Comparte tu historia con tus amigos en Instagram, Facebook, and Twitter</div>
+                    <div class="text-sm">Completando la frase: “Yo Soy Mas Que ______.”</div>
                 </li>
             </ol>
+            <img src="/assets/images/ysmq-example.jpg" width="300" class="shadow" />
         </div>
         <div class="md:p-10 w-full md:w-1/2 text-center">
             <h3 class="text-xl uppercase tracking-wide font-extrabold text-light-blue text-center mb-4">Guarda y Comparta</h3>
