@@ -27,5 +27,7 @@
                 &copy; {{ date('Y') }} Yo Soy Mas. Todos los derechos reservados. Presentado por Un Solo Peru.
             </footer>
         </main>
+
+        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     </body>
 </html>

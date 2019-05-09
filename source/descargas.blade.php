@@ -28,7 +28,7 @@
             'ysm-que-01.jpg',
             'YSM-1x1-03.jpg'
         ] as $download)
-            <a href="/assets/images/downloads/{{ $download }}" class="p-4 md:w-1/4 w-1/2 no-underline block" target="_blank" >
+            <a href="/assets/images/downloads/{{ $download }}" class="p-4 md:w-1/4 w-1/2 no-underline block hoverable" target="_blank" >
                 <img src="/assets/images/downloads/{{ $download }}" class="shadow hover:shadow-lg" />
             </a>
         @endforeach

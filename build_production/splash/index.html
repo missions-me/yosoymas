@@ -6,10 +6,10 @@
 
 <div class="absolute pin-t w-full flex flex-col items-center justify-center z-10">
     <div class="p-10 flex flex-col items-center justify-center">
-    <img src="/assets/images/ysm-logo-lg.png" class="w-full max-w-xl z-10">
-    <img src="/assets/images/womaneyes-ysm.png" class="w-full max-w-xl md:-mt-16 -mt-8">
-    <h1 class="text-purple font-bold uppercase md:text-5xl text-lg">15 De Mayo, 2019</h1>
-    <svg xmlns="http://www.w3.org/2000/svg" class="md:w-10 md:h-10 h-5 w-5" viewBox="0 0 43.5 29"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><rect width="29" height="29" fill="#bccce3"/><rect x="14.5" width="29" height="29" fill="#8e73b2"/></g></g></svg>
+        <img src="/assets/images/ysm-logo-lg.png" class="w-full max-w-xl z-10">
+        <img src="/assets/images/womaneyes-ysm.png" class="w-full max-w-xl md:-mt-16 -mt-8">
+        <h1 class="text-purple font-bold uppercase md:text-5xl text-lg">15 De Mayo, 2019</h1>
+        <h2 class="text-purple font-bold uppercase md:text-3xl text-sm">De 3 a 10 PM</h2>
     </div>
 </div>
 
