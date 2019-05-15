@@ -2,6 +2,13 @@
 
 @section('body')
 
+<header class="bg-orange text-white shadow-lg px-10 py-5 z-20 sticky pin-t w-full">
+    <div class="max-w-lg mx-auto flex justify-between items-center text-lg">
+        <h1 class="text-xl">"¡Yo Soy Más!"</h1>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0QLF8MfLNCA3l2m2QEdLjGc5lEtf1AIeAvj5HLix0hm0Drw/viewform?hl=es-419&lr=lang_es" target="_blank" class="inline-block bg-white px-5 py-3 text-orange font-bold no-underline border-2 border-white hover:bg-orange hover:text-white">Unete al Movimiento</a>
+    </div>
+</header>
+
 @include('splash')
 
 <section class="text-center p-10 md:py-20 bg-purple border-t-4 border-white" style="padding-bottom: 300px;">
