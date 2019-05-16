@@ -2,13 +2,6 @@
 
 @section('body')
 
-<header class="bg-orange text-white shadow-lg px-10 py-5 z-20 sticky pin-t w-full">
-    <div class="max-w-lg mx-auto flex justify-between items-center text-lg">
-        <h1 class="text-xl">"¡Yo Soy Más!"</h1>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0QLF8MfLNCA3l2m2QEdLjGc5lEtf1AIeAvj5HLix0hm0Drw/viewform?hl=es-419&lr=lang_es" target="_blank" class="inline-block bg-white px-5 py-3 text-orange font-bold no-underline border-2 border-white hover:bg-orange hover:text-white">Unete al Movimiento</a>
-    </div>
-</header>
-
 @include('splash')
 
 <section class="text-center p-10 md:py-20 bg-purple border-t-4 border-white" style="padding-bottom: 300px;">
@@ -70,7 +63,7 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
         </div>
 
         <div class="w-full md:w-1/2 bg-orange md:bg-white px-5 py-20 w-full text-white md:text-orange text-center flex items-center flex-col justify-center">
-            <svg xmlns="http://www.w3.org/2000/svg" class="fill-current inherit mb-4" viewBox="0 0 24 24" width="24" height="24"><path class="heroicon-ui" d="M17 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6c0-1.1.9-2 2-2h2V3a1 1 0 1 1 2 0v1h6V3a1 1 0 0 1 2 0v1zm-2 2H9v1a1 1 0 1 1-2 0V6H5v4h14V6h-2v1a1 1 0 0 1-2 0V6zm4 6H5v8h14v-8z"/></svg>
+            {{-- <svg xmlns="http://www.w3.org/2000/svg" class="fill-current inherit mb-4" viewBox="0 0 24 24" width="24" height="24"><path class="heroicon-ui" d="M17 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6c0-1.1.9-2 2-2h2V3a1 1 0 1 1 2 0v1h6V3a1 1 0 0 1 2 0v1zm-2 2H9v1a1 1 0 1 1-2 0V6H5v4h14V6h-2v1a1 1 0 0 1-2 0V6zm4 6H5v8h14v-8z"/></svg>
             <h2 class="text-4xl uppercase tracking-wide font-extrabold">
                 15 De Mayo
             </h2>
@@ -81,7 +74,9 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
             <a href="https://www.google.com/maps/place/Manuel+Bonilla+Sports+Complex/@-12.1101517,-77.0548573,17z/data=!4m12!1m6!3m5!1s0x9105c83596726e71:0x74c292ea60c0b103!2sManuel+Bonilla+Sports+Complex!8m2!3d-12.1101517!4d-77.0526686!3m4!1s0x9105c83596726e71:0x74c292ea60c0b103!8m2!3d-12.1101517!4d-77.0526686" target="_blank" class="font-bold max-w-xs no-underline text-white md:text-orange hover:underline mb-4">Complejo Deportivo Municipal Niño Héroe Manuel Bonilla</a>
 
 
-            <a href="https://teleticket.com.pe/evento/V6680" target="_blank" class="inline-block bg-white text-orange px-10 py-3 font-bold text-xl no-underline md:bg-orange md:text-white border-2 border-orange hover:border-white hover:bg-orange hover:text-white md:border-white md:hover:border-orange md:hover:bg-white md:hover:text-orange">Obtén tu entrada</a>
+            <a href="https://teleticket.com.pe/evento/V6680" target="_blank" class="inline-block bg-white text-orange px-10 py-3 font-bold text-xl no-underline md:bg-orange md:text-white border-2 border-orange hover:border-white hover:bg-orange hover:text-white md:border-white md:hover:border-orange md:hover:bg-white md:hover:text-orange">Obtén tu entrada</a> --}}
+
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0QLF8MfLNCA3l2m2QEdLjGc5lEtf1AIeAvj5HLix0hm0Drw/viewform?hl=es-419&lr=lang_es" target="_blank" class="inline-block bg-white text-orange px-10 py-3 font-bold text-xl no-underline md:bg-orange md:text-white border-2 border-orange hover:border-white hover:bg-orange hover:text-white md:border-white md:hover:border-orange md:hover:bg-white md:hover:text-orange">Unete al Movimiento</a>
         </div>
 
     </div>
