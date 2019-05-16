@@ -76,7 +76,10 @@ Es hora de que las mujeres del Perú sean protegidas, empoderadas y elevadas.
 
             <a href="https://teleticket.com.pe/evento/V6680" target="_blank" class="inline-block bg-white text-orange px-10 py-3 font-bold text-xl no-underline md:bg-orange md:text-white border-2 border-orange hover:border-white hover:bg-orange hover:text-white md:border-white md:hover:border-orange md:hover:bg-white md:hover:text-orange">Obtén tu entrada</a> --}}
 
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0QLF8MfLNCA3l2m2QEdLjGc5lEtf1AIeAvj5HLix0hm0Drw/viewform?hl=es-419&lr=lang_es" target="_blank" class="inline-block bg-white text-orange px-10 py-3 font-bold text-xl no-underline md:bg-orange md:text-white border-2 border-orange hover:border-white hover:bg-orange hover:text-white md:border-white md:hover:border-orange md:hover:bg-white md:hover:text-orange">Unete al Movimiento</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0QLF8MfLNCA3l2m2QEdLjGc5lEtf1AIeAvj5HLix0hm0Drw/viewform?hl=es-419&lr=lang_es" target="_blank" class="inline-block bg-white text-orange px-10 py-3 font-bold text-xl no-underline md:bg-orange md:text-white border-2 border-orange hover:border-white hover:bg-orange hover:text-white md:border-white md:hover:border-orange md:hover:bg-white md:hover:text-orange flex items-center">
+                Unete al Movimiento
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-6 ml-4 fill-current inherit" viewBox="0 0 20 20"><polygon points="16.172 9 10.101 2.929 11.515 1.515 20 10 19.293 10.707 11.515 18.485 10.101 17.071 16.172 11 0 11 0 9"/></svg>
+            </a>
         </div>
 
     </div>
